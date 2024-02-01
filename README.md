@@ -15,6 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Art of Clean Code: Best Practices for Writing Maintainable Code](https://medium.com/@ShahabH/the-art-of-clean-code-best-practices-for-writing-maintainable-code-36d010aabc56?source=rss-26052786ed5f------2)
+- [Streamlit vs Gradio: A Comprehensive Comparison](https://medium.com/@ShahabH/streamlit-vs-gradio-a-comprehensive-comparison-cc2f28b7b832?source=rss-26052786ed5f------2)
+- [My Top 5 Python Libraries](https://medium.com/@ShahabH/my-top-5-python-libraries-56d750f711b0?source=rss-26052786ed5f------2)
+- [Brain Tumor MRI Detection: How I Made an AI Classification Model](https://medium.com/@ShahabH/brain-tumor-mri-detection-how-i-made-an-ai-classification-model-5428eadcf540?source=rss-26052786ed5f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
