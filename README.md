@@ -7,6 +7,8 @@
 
 - 📝 I write articles on [https://medium.com/@ShahabH](https://medium.com/@ShahabH)
 
+- 🖼️ I am also **a graphic designer & 3D Artist**
+
 - 📫 How to reach me **mshahabhasan@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1OuvULUgIGHAfanLj5A-tK-iudeeIioFF/view](https://drive.google.com/file/d/1OuvULUgIGHAfanLj5A-tK-iudeeIioFF/view)
