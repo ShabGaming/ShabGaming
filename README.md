@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Unraveling the Myth: Will AI End the Era of Coders?](https://medium.com/@ShahabH/unraveling-the-myth-will-ai-end-the-era-of-coders-7a2f615e2582?source=rss-26052786ed5f------2)
 - [Analyzing the US vs. Apple Antitrust Lawsuit: A Deep Dive into Market Dynamics](https://medium.com/@ShahabH/analyzing-the-us-vs-apple-antitrust-lawsuit-a-deep-dive-into-market-dynamics-025d3aaedc45?source=rss-26052786ed5f------2)
 - [Apple’s Strategic Dive into AI](https://medium.com/@ShahabH/apples-strategic-dive-into-ai-13b188ec2a8a?source=rss-26052786ed5f------2)
 - [7 Must-Know Insights on Generating Synthetic Data for Safer Data Sharing &amp; Enhanced Models](https://medium.com/@ShahabH/7-must-know-insights-on-generating-synthetic-data-for-safer-data-sharing-enhanced-models-4720bcc643fa?source=rss-26052786ed5f------2)
-- [The Art of Clean Code: Best Practices for Writing Maintainable Code](https://medium.com/@ShahabH/the-art-of-clean-code-best-practices-for-writing-maintainable-code-36d010aabc56?source=rss-26052786ed5f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
