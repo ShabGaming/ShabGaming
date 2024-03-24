@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Vectorization vs Loops: Boosting Efficiency in Data Processing](https://medium.com/@ShahabH/vectorization-vs-loops-boosting-efficiency-in-data-processing-822b3e51066e?source=rss-26052786ed5f------2)
 - [Python or JavaScript: Choosing the Right Language for Your Programming Journey](https://medium.com/@ShahabH/python-or-javascript-choosing-the-right-language-for-your-programming-journey-bf55a5624384?source=rss-26052786ed5f------2)
 - [150x Speed in Pandas Dataframes with NVIDIA’s Pandas Accelerator](https://medium.com/@ShahabH/150x-speed-in-pandas-dataframes-with-nvidias-pandas-accelerator-8677f9cca5f1?source=rss-26052786ed5f------2)
 - [Unraveling the Myth: Will AI End the Era of Coders?](https://medium.com/@ShahabH/unraveling-the-myth-will-ai-end-the-era-of-coders-7a2f615e2582?source=rss-26052786ed5f------2)
-- [Analyzing the US vs. Apple Antitrust Lawsuit: A Deep Dive into Market Dynamics](https://medium.com/@ShahabH/analyzing-the-us-vs-apple-antitrust-lawsuit-a-deep-dive-into-market-dynamics-025d3aaedc45?source=rss-26052786ed5f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
