@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Five Strategies To Keep Your Python Code Organized](https://medium.com/@ShahabH/five-strategies-to-keep-your-python-code-organized-75402b9f1664?source=rss-26052786ed5f------2)
 - [A Successful Programmer Mindset](https://medium.com/@ShahabH/a-successful-programmer-mindset-58fa8725100b?source=rss-26052786ed5f------2)
 - [3 Tips to Elevate Your Machine Learning Career](https://medium.com/@ShahabH/3-tips-to-elevate-your-machine-learning-career-8b8e1156c0f6?source=rss-26052786ed5f------2)
 - [Vectorization vs Loops: Boosting Efficiency in Data Processing](https://medium.com/@ShahabH/vectorization-vs-loops-boosting-efficiency-in-data-processing-822b3e51066e?source=rss-26052786ed5f------2)
-- [Python or JavaScript: Choosing the Right Language for Your Programming Journey](https://medium.com/@ShahabH/python-or-javascript-choosing-the-right-language-for-your-programming-journey-bf55a5624384?source=rss-26052786ed5f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
