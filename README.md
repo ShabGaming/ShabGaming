@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Programming vs Coding: Unveiling the Core Differences and Their Impact](https://medium.com/@ShahabH/programming-vs-coding-unveiling-the-core-differences-and-their-impact-7b1e1297e442?source=rss-26052786ed5f------2)
 - [5 JavaScript Mistakes You Must Avoid](https://medium.com/@ShahabH/5-javascript-mistakes-you-must-avoid-768e54b8de4a?source=rss-26052786ed5f------2)
 - [Five Strategies To Keep Your Python Code Organized](https://medium.com/@ShahabH/five-strategies-to-keep-your-python-code-organized-75402b9f1664?source=rss-26052786ed5f------2)
 - [A Successful Programmer Mindset](https://medium.com/@ShahabH/a-successful-programmer-mindset-58fa8725100b?source=rss-26052786ed5f------2)
-- [3 Tips to Elevate Your Machine Learning Career](https://medium.com/@ShahabH/3-tips-to-elevate-your-machine-learning-career-8b8e1156c0f6?source=rss-26052786ed5f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
