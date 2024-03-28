@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Unpatchable Bug in Apple’s M1, M2, and M3 Chipsets](https://medium.com/@ShahabH/unpatchable-bug-in-apples-m1-m2-and-m3-chipsets-9fc56124a124?source=rss-26052786ed5f------2)
 - [A Beginner’s Guide to Learning Programming Effectively](https://medium.com/@ShahabH/a-beginners-guide-to-learning-programming-effectively-be06a600b0aa?source=rss-26052786ed5f------2)
 - [Programming vs Coding: Unveiling the Core Differences and Their Impact](https://medium.com/@ShahabH/programming-vs-coding-unveiling-the-core-differences-and-their-impact-7b1e1297e442?source=rss-26052786ed5f------2)
 - [5 JavaScript Mistakes You Must Avoid](https://medium.com/@ShahabH/5-javascript-mistakes-you-must-avoid-768e54b8de4a?source=rss-26052786ed5f------2)
-- [Five Strategies To Keep Your Python Code Organized](https://medium.com/@ShahabH/five-strategies-to-keep-your-python-code-organized-75402b9f1664?source=rss-26052786ed5f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
