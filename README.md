@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Redis Licensing Change: A New Era for Open-Source Software?](https://medium.com/@ShahabH/redis-licensing-change-a-new-era-for-open-source-software-59254fc3f44b?source=rss-26052786ed5f------2)
 - [Python vs. Ruby: A Beginner’s Guide](https://medium.com/@ShahabH/python-vs-ruby-a-beginners-guide-459a05474ad3?source=rss-26052786ed5f------2)
 - [Unpatchable Bug in Apple’s M1, M2, and M3 Chipsets](https://medium.com/@ShahabH/unpatchable-bug-in-apples-m1-m2-and-m3-chipsets-9fc56124a124?source=rss-26052786ed5f------2)
 - [A Beginner’s Guide to Learning Programming Effectively](https://medium.com/@ShahabH/a-beginners-guide-to-learning-programming-effectively-be06a600b0aa?source=rss-26052786ed5f------2)
-- [Programming vs Coding: Unveiling the Core Differences and Their Impact](https://medium.com/@ShahabH/programming-vs-coding-unveiling-the-core-differences-and-their-impact-7b1e1297e442?source=rss-26052786ed5f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
