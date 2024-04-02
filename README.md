@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [NAS vs. Home Server: The Evolving Landscape of Home Computing](https://medium.com/@ShahabH/nas-vs-home-server-the-evolving-landscape-of-home-computing-dda6c364259a?source=rss-26052786ed5f------2)
 - [First Devin, Now Microsoft AutoDev: AI-Driven Automation?](https://medium.com/@ShahabH/first-devin-now-microsoft-autodev-ai-driven-automation-29a74ad1648e?source=rss-26052786ed5f------2)
 - [Why You Should Setup a Home Server](https://medium.com/@ShahabH/why-you-should-setup-a-home-server-5a0f50454e8e?source=rss-26052786ed5f------2)
 - [Svelte vs. React: Choosing the Right Framework](https://medium.com/@ShahabH/svelte-vs-react-choosing-the-right-framework-19ed5aa76f2d?source=rss-26052786ed5f------2)
-- [Fasted New Code Editor You’ve Never Heard of](https://medium.com/@ShahabH/fasted-new-code-editor-youve-never-heard-of-ce14f3746063?source=rss-26052786ed5f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
