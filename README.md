@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [An Open Source Devin? Revolutionizing AI in Software Engineering](https://medium.com/@ShahabH/an-open-source-devin-revolutionizing-ai-in-software-engineering-864586d0ab8b?source=rss-26052786ed5f------2)
 - [A Guide to Kickstarting Your Programming Career in 2024](https://medium.com/@ShahabH/a-guide-to-kickstarting-your-programming-career-in-2024-09c55d2b65e3?source=rss-26052786ed5f------2)
 - [NAS vs. Home Server: The Evolving Landscape of Home Computing](https://medium.com/@ShahabH/nas-vs-home-server-the-evolving-landscape-of-home-computing-dda6c364259a?source=rss-26052786ed5f------2)
 - [First Devin, Now Microsoft AutoDev: AI-Driven Automation?](https://medium.com/@ShahabH/first-devin-now-microsoft-autodev-ai-driven-automation-29a74ad1648e?source=rss-26052786ed5f------2)
-- [Why You Should Setup a Home Server](https://medium.com/@ShahabH/why-you-should-setup-a-home-server-5a0f50454e8e?source=rss-26052786ed5f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
