@@ -15,12 +15,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Vector Databases vs. Relational Databases: Pros and Cons](https://medium.com/@ShahabH/vector-databases-vs-relational-databases-pros-and-cons-89b136f98299?source=rss-26052786ed5f------2)
 - [Choosing Between SQL and NoSQL Databases: A Guide for Developers](https://medium.com/@ShahabH/choosing-between-sql-and-nosql-databases-a-guide-for-developers-cb2413354212?source=rss-26052786ed5f------2)
 - [AI’s Impact and the Future of Software Development](https://medium.com/@ShahabH/ais-impact-and-the-future-of-software-development-66e3fcdf5964?source=rss-26052786ed5f------2)
 - [OpenAI’s Upcoming Jarvis like “VOICE ENGINE”](https://medium.com/@ShahabH/openais-upcoming-jarvis-like-voice-engine-dd7640bdb837?source=rss-26052786ed5f------2)
 - [Every Linux System Almost Got Hacked! Uncovering the XZ Backdoor Threat.](https://medium.com/@ShahabH/every-linux-system-almost-got-hacked-uncovering-the-xz-backdoor-threat-55001ab8c914?source=rss-26052786ed5f------2)
 - [An Open Source Devin? Revolutionizing AI in Software Engineering](https://medium.com/@ShahabH/an-open-source-devin-revolutionizing-ai-in-software-engineering-864586d0ab8b?source=rss-26052786ed5f------2)
-- [A Guide to Kickstarting Your Programming Career in 2024](https://medium.com/@ShahabH/a-guide-to-kickstarting-your-programming-career-in-2024-09c55d2b65e3?source=rss-26052786ed5f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
