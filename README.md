@@ -15,12 +15,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Chip Wars: Intel Gaudi 3 vs. Nvidia](https://medium.com/@ShahabH/ai-chip-wars-intel-gaudi-3-vs-nvidia-50279e65e001?source=rss-26052786ed5f------2)
 - [Is Python Worth Learning in 2024?](https://medium.com/@ShahabH/is-python-worth-learning-in-2024-60cc57040bb9?source=rss-26052786ed5f------2)
 - [Master Python Programming: Key Concepts Every Developer Must Know](https://medium.com/@ShahabH/master-python-programming-key-concepts-every-developer-must-know-956b0697ade7?source=rss-26052786ed5f------2)
 - [How to Learn Coding and Secure a Tech Job](https://medium.com/@ShahabH/how-to-learn-coding-and-secure-a-tech-job-a702b0a639db?source=rss-26052786ed5f------2)
 - [Visual Studio Code New Update is Awsome](https://medium.com/@ShahabH/visual-studio-code-new-update-is-awsome-69e8adeadb34?source=rss-26052786ed5f------2)
 - [Vector Databases vs. Relational Databases: Pros and Cons](https://medium.com/@ShahabH/vector-databases-vs-relational-databases-pros-and-cons-89b136f98299?source=rss-26052786ed5f------2)
-- [Choosing Between SQL and NoSQL Databases: A Guide for Developers](https://medium.com/@ShahabH/choosing-between-sql-and-nosql-databases-a-guide-for-developers-cb2413354212?source=rss-26052786ed5f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
