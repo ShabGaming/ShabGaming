@@ -15,12 +15,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Game Development: A Beginner’s Guide](https://medium.com/@ShahabH/game-development-a-beginners-guide-4e4c78fec235?source=rss-26052786ed5f------2)
 - [Transform Your Python Projects with These Powerful Libraries](https://medium.com/@ShahabH/transform-your-python-projects-with-these-powerful-libraries-b46c2db67f96?source=rss-26052786ed5f------2)
 - [Exploring Artificial General Intelligence &lpar;AGI&rpar;: Definitions, Challenges, and Real-World Impact](https://medium.com/@ShahabH/exploring-artificial-general-intelligence-agi-definitions-challenges-and-real-world-impact-535fa2a5c4cb?source=rss-26052786ed5f------2)
 - [Learn to Code Faster: The Power of Project-Based Learning](https://medium.com/@ShahabH/learn-to-code-faster-the-power-of-project-based-learning-d96055d50574?source=rss-26052786ed5f------2)
 - [7 Essential JavaScript Tips for Efficient Coding](https://medium.com/@ShahabH/7-essential-javascript-tips-for-efficient-coding-89c5954e219f?source=rss-26052786ed5f------2)
 - [Strategies for Aspiring AI and Machine Learning Engineers: A Career Roadmap](https://medium.com/@ShahabH/strategies-for-aspiring-ai-and-machine-learning-engineers-a-career-roadmap-985c5620d309?source=rss-26052786ed5f------2)
-- [AI Chip Wars: Intel Gaudi 3 vs. Nvidia](https://medium.com/@ShahabH/ai-chip-wars-intel-gaudi-3-vs-nvidia-50279e65e001?source=rss-26052786ed5f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
