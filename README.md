@@ -15,12 +15,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Harnessing AI for Career Growth: Strategies to Thrive in the Future Workplace](https://medium.com/@ShahabH/harnessing-ai-for-career-growth-strategies-to-thrive-in-the-future-workplace-19733c7955ea?source=rss-26052786ed5f------2)
 - [Future of Robotics with Boston Dynamics’ New Atlas](https://medium.com/@ShahabH/future-of-robotics-with-boston-dynamics-new-atlas-ea9987ba3de1?source=rss-26052786ed5f------2)
 - [Game Development: A Beginner’s Guide](https://medium.com/@ShahabH/game-development-a-beginners-guide-4e4c78fec235?source=rss-26052786ed5f------2)
 - [Transform Your Python Projects with These Powerful Libraries](https://medium.com/@ShahabH/transform-your-python-projects-with-these-powerful-libraries-b46c2db67f96?source=rss-26052786ed5f------2)
 - [Exploring Artificial General Intelligence &lpar;AGI&rpar;: Definitions, Challenges, and Real-World Impact](https://medium.com/@ShahabH/exploring-artificial-general-intelligence-agi-definitions-challenges-and-real-world-impact-535fa2a5c4cb?source=rss-26052786ed5f------2)
 - [Learn to Code Faster: The Power of Project-Based Learning](https://medium.com/@ShahabH/learn-to-code-faster-the-power-of-project-based-learning-d96055d50574?source=rss-26052786ed5f------2)
-- [7 Essential JavaScript Tips for Efficient Coding](https://medium.com/@ShahabH/7-essential-javascript-tips-for-efficient-coding-89c5954e219f?source=rss-26052786ed5f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
