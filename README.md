@@ -15,12 +15,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Realism of AI-Generated Faces: Microsoft’s VASA-1](https://medium.com/@ShahabH/the-realism-of-ai-generated-faces-microsofts-vasa-1-2d00dd02e8b7?source=rss-26052786ed5f------2)
 - [How the PHI-3 Mini Is Changing the AI Landscape on Mobile Devices](https://medium.com/@ShahabH/how-the-phi-3-mini-is-changing-the-ai-landscape-on-mobile-devices-0bde539f2f2e?source=rss-26052786ed5f------2)
 - [The AI Wearable Revolution: How Limitless is Transforming Technology Integration](https://medium.com/@ShahabH/the-ai-wearable-revolution-how-limitless-is-transforming-technology-integration-f2a2c8c35c2d?source=rss-26052786ed5f------2)
 - [Meta’s LLAMA 3: Transforming AI with Open Source Innovation](https://medium.com/@ShahabH/metas-llama-3-transforming-ai-with-open-source-innovation-ca99edc72739?source=rss-26052786ed5f------2)
 - [Harnessing AI for Career Growth: Strategies to Thrive in the Future Workplace](https://medium.com/@ShahabH/harnessing-ai-for-career-growth-strategies-to-thrive-in-the-future-workplace-19733c7955ea?source=rss-26052786ed5f------2)
 - [Future of Robotics with Boston Dynamics’ New Atlas](https://medium.com/@ShahabH/future-of-robotics-with-boston-dynamics-new-atlas-ea9987ba3de1?source=rss-26052786ed5f------2)
-- [Game Development: A Beginner’s Guide](https://medium.com/@ShahabH/game-development-a-beginners-guide-4e4c78fec235?source=rss-26052786ed5f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
