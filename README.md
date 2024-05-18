@@ -15,12 +15,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Google’s Gemini 1.5 Flash: Revolutionizing AI with Unprecedented Speed and Efficiency](https://medium.com/@ShahabH/googles-gemini-1-5-flash-revolutionizing-ai-with-unprecedented-speed-and-efficiency-ec9e6972d327?source=rss-26052786ed5f------2)
 - [China’s VIDU Video Generation AI Competes With OpenAI’s Sora](https://medium.com/@ShahabH/chinas-vidu-video-generation-ai-competes-with-openai-s-sora-bfef80c8475e?source=rss-26052786ed5f------2)
 - [China New Sense Nova 5.0 AI Model Surpasses GPT-4](https://medium.com/@ShahabH/china-new-sense-nova-5-0-ai-model-surpasses-gpt-4-b53e96b5330d?source=rss-26052786ed5f------2)
 - [The Realism of AI-Generated Faces: Microsoft’s VASA-1](https://medium.com/@ShahabH/the-realism-of-ai-generated-faces-microsofts-vasa-1-2d00dd02e8b7?source=rss-26052786ed5f------2)
 - [How the PHI-3 Mini Is Changing the AI Landscape on Mobile Devices](https://medium.com/@ShahabH/how-the-phi-3-mini-is-changing-the-ai-landscape-on-mobile-devices-0bde539f2f2e?source=rss-26052786ed5f------2)
 - [The AI Wearable Revolution: How Limitless is Transforming Technology Integration](https://medium.com/@ShahabH/the-ai-wearable-revolution-how-limitless-is-transforming-technology-integration-f2a2c8c35c2d?source=rss-26052786ed5f------2)
-- [Meta’s LLAMA 3: Transforming AI with Open Source Innovation](https://medium.com/@ShahabH/metas-llama-3-transforming-ai-with-open-source-innovation-ca99edc72739?source=rss-26052786ed5f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
