@@ -15,12 +15,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Rise of Self-Evolving AI: Redefining Intelligence and Technology](https://medium.com/@ShahabH/the-rise-of-self-evolving-ai-redefining-intelligence-and-technology-9d69ac69f7cb?source=rss-26052786ed5f------2)
 - [The U.S government&#39;s AGI Project: The AGI Manhattan Project](https://medium.com/@ShahabH/the-u-s-governments-agi-project-the-agi-manhattan-project-932686da932c?source=rss-26052786ed5f------2)
 - [How Google’s AI is Revolutionizing Our Understanding of the Brain &amp; Intelligence](https://medium.com/@ShahabH/how-googles-ai-is-revolutionizing-our-understanding-of-the-brain-intelligence-038334af552e?source=rss-26052786ed5f------2)
 - [Nvidia’s New Ultra Chip will Revolutionize AI](https://medium.com/@ShahabH/nvidias-new-ultra-chip-will-revolutionize-ai-1acedaa4fbfc?source=rss-26052786ed5f------2)
 - [OpenAI’s New ChatGPT Edu Revolutionizes Education](https://medium.com/@ShahabH/openais-new-chatgpt-edu-revolutionizes-education-23d3ecd51cf5?source=rss-26052786ed5f------2)
 - [Google’s Gemini 1.5 Flash: Revolutionizing AI with Unprecedented Speed and Efficiency](https://medium.com/@ShahabH/googles-gemini-1-5-flash-revolutionizing-ai-with-unprecedented-speed-and-efficiency-ec9e6972d327?source=rss-26052786ed5f------2)
-- [China’s VIDU Video Generation AI Competes With OpenAI’s Sora](https://medium.com/@ShahabH/chinas-vidu-video-generation-ai-competes-with-openai-s-sora-bfef80c8475e?source=rss-26052786ed5f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
