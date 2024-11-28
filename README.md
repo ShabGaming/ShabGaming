@@ -15,12 +15,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How China’s AI Revolution is Shaping Global Competition](https://medium.com/@ShahabH/how-chinas-ai-revolution-is-shaping-global-competition-7d9bf0131933?source=rss-26052786ed5f------2)
 - [The Looming AI Risk: Are We Ready for the Next 18 Months?](https://medium.com/@ShahabH/the-looming-ai-risk-are-we-ready-for-the-next-18-months-9dfdc4125626?source=rss-26052786ed5f------2)
 - [The Rise of Self-Evolving AI: Redefining Intelligence and Technology](https://medium.com/@ShahabH/the-rise-of-self-evolving-ai-redefining-intelligence-and-technology-9d69ac69f7cb?source=rss-26052786ed5f------2)
 - [The U.S government&#39;s AGI Project: The AGI Manhattan Project](https://medium.com/@ShahabH/the-u-s-governments-agi-project-the-agi-manhattan-project-932686da932c?source=rss-26052786ed5f------2)
 - [How Google’s AI is Revolutionizing Our Understanding of the Brain &amp; Intelligence](https://medium.com/@ShahabH/how-googles-ai-is-revolutionizing-our-understanding-of-the-brain-intelligence-038334af552e?source=rss-26052786ed5f------2)
 - [Nvidia’s New Ultra Chip will Revolutionize AI](https://medium.com/@ShahabH/nvidias-new-ultra-chip-will-revolutionize-ai-1acedaa4fbfc?source=rss-26052786ed5f------2)
-- [OpenAI’s New ChatGPT Edu Revolutionizes Education](https://medium.com/@ShahabH/openais-new-chatgpt-edu-revolutionizes-education-23d3ecd51cf5?source=rss-26052786ed5f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
