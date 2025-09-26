@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Shahab</h1>
 <h3 align="center">Applied AI @ HKU | A student with a passion for programming, video games, and Formula 1 🏎️.</h3>
 
-- 🌱 I’m currently learning **visionOS SDK, Unreal Engine 5**
+- 🌱 I’m currently learning **CUDA & cuDNN**
 
 - 👨‍💻 All of my projects are available at [https://www.shahabai.com](https://www.shahabai.com)
 
