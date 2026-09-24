@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Shahab</h1>
-<h3 align="center">Applied AI @ HKU | A student with a passion for programming, video games, and Formula 1 🏎️.</h3>
+<h3 align="center">AI SWE @Amphenol | Applied AI @ HKU | I like programming, video games, and Formula 1 🏎️.</h3>
 
 - 🌱 I’m currently learning **CUDA & cuDNN**
 
